@@ -1,3 +1,3 @@
 Github
- teste, Good Luck 
+Good Luck 
 aprendendo git, aprendendo git diff
